@@ -41,14 +41,27 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git fetch origin main
+          git reset --mixed origin/main
           git add tools/catalog_source.json tools/pending.json catalog_site
           if git diff --cached --quiet; then
             echo "Каталог без изменений"
-          else
-            git commit -m "каталог: автообновление $(date -u +'%Y-%m-%d %H:%M UTC')"
-            git pull --rebase origin main
-            git push
+            exit 0
           fi
+          MSG="каталог: автообновление $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git commit -m "$MSG"
+          for attempt in 1 2 3; do
+            if git push origin HEAD:main; then
+              exit 0
+            fi
+            echo "Повторная попытка отправки: $attempt"
+            sleep 5
+            git fetch origin main
+            git reset --soft origin/main
+            git commit -m "$MSG"
+          done
+          echo "Не удалось отправить каталог" >&2
+          exit 1
 
       - name: Настройка GitHub Pages
         uses: actions/configure-pages@v5
