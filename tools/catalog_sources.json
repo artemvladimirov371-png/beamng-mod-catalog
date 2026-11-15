@@ -1,0 +1,19 @@
+{
+  "modland": {
+    "authors": [
+      "bubon",
+      "ultimate-drag-complex",
+      "superplayart"
+    ],
+    "categories": [
+      "cars",
+      "maps"
+    ],
+    "max_new_per_run": 20,
+    "request_delay": 1.2,
+    "auto_publish": true
+  },
+  "catalog": {
+    "gallery_images": 4
+  }
+}

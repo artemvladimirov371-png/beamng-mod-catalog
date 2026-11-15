@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+prototype/
+tools/sync_report.json
+*.tmp
+Thumbs.db
+.DS_Store

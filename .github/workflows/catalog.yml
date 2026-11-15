@@ -1,0 +1,65 @@
+name: Обновление каталога
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: catalog-pages
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Получить репозиторий
+        uses: actions/checkout@v4
+
+      - name: Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Зависимости
+        run: pip install -r requirements.txt
+
+      - name: Синхронизация ModLand
+        run: python tools/modland_sync.py --verbose
+
+      - name: Коммит каталога
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add tools/catalog_source.json tools/pending.json catalog_site
+          if git diff --cached --quiet; then
+            echo "Каталог без изменений"
+          else
+            git commit -m "каталог: автообновление $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git pull --rebase origin main
+            git push
+          fi
+
+      - name: Настройка GitHub Pages
+        uses: actions/configure-pages@v5
+        with:
+          enablement: true
+
+      - name: Артефакт сайта
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: catalog_site
+
+      - name: Публикация
+        id: deployment
+        uses: actions/deploy-pages@v4
