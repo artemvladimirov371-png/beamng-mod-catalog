@@ -21,7 +21,7 @@
         "assets/mods/bmw-m5-f90-3.webp"
       ],
       "downloads": "20.9K",
-      "downloadsFull": "20878",
+      "downloadsFull": "20906",
       "rating": 4.0,
       "ratings": "45 оценок",
       "author": "bubon",
@@ -413,8 +413,8 @@
       "gallery": [
         "assets/mods/bmw-m5-e60-1.webp"
       ],
-      "downloads": "14.1K",
-      "downloadsFull": "14142",
+      "downloads": "14.2K",
+      "downloadsFull": "14155",
       "rating": 4.0,
       "ratings": "34 оценки",
       "author": "bubon",
@@ -775,8 +775,8 @@
         "assets/mods/bmw-m5-g90-2.webp",
         "assets/mods/bmw-m5-g90-3.webp"
       ],
-      "downloads": "10.6K",
-      "downloadsFull": "10644",
+      "downloads": "10.7K",
+      "downloadsFull": "10659",
       "rating": 4.0,
       "ratings": "20 оценок",
       "author": "bubon",
@@ -951,7 +951,7 @@
         "assets/mods/udc-1.webp"
       ],
       "downloads": "4.4K",
-      "downloadsFull": "4359",
+      "downloadsFull": "4383",
       "rating": 5.0,
       "ratings": "1 оценка",
       "author": "ULTIMATE DRAG COMPLEX",
@@ -989,8 +989,8 @@
         "assets/mods/el-capitan-1.webp",
         "assets/mods/el-capitan-2.webp"
       ],
-      "downloads": "210",
-      "downloadsFull": "210",
+      "downloads": "211",
+      "downloadsFull": "211",
       "rating": 5.0,
       "ratings": "1 оценка",
       "author": "superplayart",
@@ -998,7 +998,7 @@
       "size": "54 МБ",
       "sizeBytes": 56133295,
       "source": "ModLand",
-      "updated": "14 ноя 2026",
+      "updated": "13 ноя 2026",
       "gameVersion": "0.40.x",
       "configs": [],
       "configGroups": [],
@@ -1030,8 +1030,8 @@
         "assets/mods/pod-race-gran-turismo-tokyo-geneva-3.webp",
         "assets/mods/pod-race-gran-turismo-tokyo-geneva-4.webp"
       ],
-      "downloads": "153",
-      "downloadsFull": "153",
+      "downloads": "159",
+      "downloadsFull": "159",
       "rating": 4.0,
       "ratings": "0 оценок",
       "author": "superplayart",
@@ -1074,8 +1074,8 @@
         "assets/mods/george-v-paris-gran-turismo-4-2.webp",
         "assets/mods/george-v-paris-gran-turismo-4-3.webp"
       ],
-      "downloads": "258",
-      "downloadsFull": "258",
+      "downloads": "265",
+      "downloadsFull": "265",
       "rating": 4.0,
       "ratings": "0 оценок",
       "author": "superplayart",
@@ -1083,7 +1083,7 @@
       "size": "86 МБ",
       "sizeBytes": 90335673,
       "source": "ModLand",
-      "updated": "14 ноя 2026",
+      "updated": "13 ноя 2026",
       "gameVersion": "0.40.x",
       "configs": [],
       "configGroups": [],
@@ -1117,8 +1117,8 @@
         "assets/mods/citta-di-aria-gran-turismo-4-1.webp",
         "assets/mods/citta-di-aria-gran-turismo-4-2.webp"
       ],
-      "downloads": "175",
-      "downloadsFull": "175",
+      "downloads": "176",
+      "downloadsFull": "176",
       "rating": 3.0,
       "ratings": "1 оценка",
       "author": "superplayart",
@@ -1140,6 +1140,51 @@
         "kind": "modland",
         "url": "https://www.modland.net/download/645460",
         "file": "gt4_citta_di_aria_v1_modland.zip"
+      }
+    },
+    {
+      "id": "tokyo-r246-gran-turismo-4",
+      "type": "map",
+      "title": "Tokyo R246 - Gran Turismo 4",
+      "short": "Tokyo R246, a circuit from Gran Turismo 4, imported into BeamNG.drive.",
+      "about": "Tokyo R246, a circuit from Gran Turismo 4, imported into BeamNG.drive. Converted from the game files of Gran Turismo 4 Platinum (PS2) with the help of Claude Opus 5.5.",
+      "img": "assets/mods/tokyo-r246-gran-turismo-4-thumb.webp",
+      "cover": "assets/mods/tokyo-r246-gran-turismo-4-cover.webp",
+      "gallery": [
+        "assets/mods/tokyo-r246-gran-turismo-4-1.webp",
+        "assets/mods/tokyo-r246-gran-turismo-4-2.webp",
+        "assets/mods/tokyo-r246-gran-turismo-4-3.webp",
+        "assets/mods/tokyo-r246-gran-turismo-4-4.webp"
+      ],
+      "downloads": "15",
+      "downloadsFull": "15",
+      "rating": 4.0,
+      "ratings": "0 оценок",
+      "author": "superplayart",
+      "version": "1.0",
+      "size": "73 МБ",
+      "sizeBytes": 76867678,
+      "source": "ModLand",
+      "updated": "19 ноя 2026",
+      "gameVersion": "0.40.x",
+      "configs": [],
+      "configGroups": [],
+      "features": [
+        "Original track geometry, banners, and baked lighting",
+        "AI-upscaled 4x textures",
+        "GT4's own drivable surface used as collision",
+        "Approximately",
+        "5.1km",
+        "long",
+        "Credits",
+        "Original track design and assets by Polyphony Digital."
+      ],
+      "page": "https://www.modland.net/beamng.drive-mods/maps/tokyo-r246-gran-turismo-4.html",
+      "authorPage": "https://www.modland.net/user/superplayart",
+      "download": {
+        "kind": "modland",
+        "url": "https://www.modland.net/download/647573",
+        "file": "gt4_tokyo_r246_v1_modland.zip"
       }
     }
   ]
