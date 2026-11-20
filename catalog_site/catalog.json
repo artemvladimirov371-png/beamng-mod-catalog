@@ -1,5 +1,5 @@
 {
-  "version": "20261120T001000Z",
+  "version": "20261120T144456Z",
   "generatedAt": "2026-11-20",
   "appVersion": "1.0.0",
   "sources": [
@@ -23,7 +23,7 @@
         "assets/mods/bmw-m5-f90-3.webp"
       ],
       "downloads": "21K",
-      "downloadsFull": "20957",
+      "downloadsFull": "21007",
       "rating": 4.0,
       "ratings": "45 оценок",
       "author": "bubon",
@@ -416,7 +416,7 @@
         "assets/mods/bmw-m5-e60-1.webp"
       ],
       "downloads": "14.2K",
-      "downloadsFull": "14185",
+      "downloadsFull": "14193",
       "rating": 4.0,
       "ratings": "34 оценки",
       "author": "bubon",
@@ -778,7 +778,7 @@
         "assets/mods/bmw-m5-g90-3.webp"
       ],
       "downloads": "10.7K",
-      "downloadsFull": "10682",
+      "downloadsFull": "10706",
       "rating": 4.0,
       "ratings": "20 оценок",
       "author": "bubon",
@@ -952,8 +952,8 @@
       "gallery": [
         "assets/mods/udc-1.webp"
       ],
-      "downloads": "4.4K",
-      "downloadsFull": "4417",
+      "downloads": "4.5K",
+      "downloadsFull": "4472",
       "rating": 5.0,
       "ratings": "1 оценка",
       "author": "ULTIMATE DRAG COMPLEX",
@@ -991,8 +991,8 @@
         "assets/mods/el-capitan-1.webp",
         "assets/mods/el-capitan-2.webp"
       ],
-      "downloads": "212",
-      "downloadsFull": "212",
+      "downloads": "220",
+      "downloadsFull": "220",
       "rating": 5.0,
       "ratings": "1 оценка",
       "author": "superplayart",
@@ -1032,8 +1032,8 @@
         "assets/mods/pod-race-gran-turismo-tokyo-geneva-3.webp",
         "assets/mods/pod-race-gran-turismo-tokyo-geneva-4.webp"
       ],
-      "downloads": "160",
-      "downloadsFull": "160",
+      "downloads": "165",
+      "downloadsFull": "165",
       "rating": 4.0,
       "ratings": "0 оценок",
       "author": "superplayart",
@@ -1076,8 +1076,8 @@
         "assets/mods/george-v-paris-gran-turismo-4-2.webp",
         "assets/mods/george-v-paris-gran-turismo-4-3.webp"
       ],
-      "downloads": "265",
-      "downloadsFull": "265",
+      "downloads": "273",
+      "downloadsFull": "273",
       "rating": 4.0,
       "ratings": "0 оценок",
       "author": "superplayart",
@@ -1085,7 +1085,7 @@
       "size": "86 МБ",
       "sizeBytes": 90335673,
       "source": "ModLand",
-      "updated": "14 ноя 2026",
+      "updated": "13 ноя 2026",
       "gameVersion": "0.40.x",
       "configs": [],
       "configGroups": [],
@@ -1119,8 +1119,8 @@
         "assets/mods/citta-di-aria-gran-turismo-4-1.webp",
         "assets/mods/citta-di-aria-gran-turismo-4-2.webp"
       ],
-      "downloads": "177",
-      "downloadsFull": "177",
+      "downloads": "179",
+      "downloadsFull": "179",
       "rating": 3.0,
       "ratings": "1 оценка",
       "author": "superplayart",
@@ -1158,8 +1158,8 @@
         "assets/mods/tokyo-r246-gran-turismo-4-3.webp",
         "assets/mods/tokyo-r246-gran-turismo-4-4.webp"
       ],
-      "downloads": "46",
-      "downloadsFull": "46",
+      "downloads": "63",
+      "downloadsFull": "63",
       "rating": 4.0,
       "ratings": "0 оценок",
       "author": "superplayart",
@@ -1167,7 +1167,7 @@
       "size": "73 МБ",
       "sizeBytes": 76867678,
       "source": "ModLand",
-      "updated": "20 ноя 2026",
+      "updated": "19 ноя 2026",
       "gameVersion": "0.40.x",
       "configs": [],
       "configGroups": [],
