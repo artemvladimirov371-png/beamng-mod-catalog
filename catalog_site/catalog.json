@@ -1,5 +1,5 @@
 {
-  "version": "20261121T140033Z",
+  "version": "20261121T224113Z",
   "generatedAt": "2026-11-21",
   "appVersion": "1.0.0",
   "sources": [
@@ -23,7 +23,7 @@
         "assets/mods/bmw-m5-f90-3.webp"
       ],
       "downloads": "21.2K",
-      "downloadsFull": "21151",
+      "downloadsFull": "21209",
       "rating": 4.0,
       "ratings": "45 оценок",
       "author": "bubon",
@@ -31,7 +31,7 @@
       "size": "631 МБ",
       "sizeBytes": 661994638,
       "source": "ModLand",
-      "updated": "31 окт 2026",
+      "updated": "24 окт 2026",
       "gameVersion": "0.40.x",
       "configs": [
         "M5 Competition",
@@ -415,8 +415,8 @@
       "gallery": [
         "assets/mods/bmw-m5-e60-1.webp"
       ],
-      "downloads": "14.2K",
-      "downloadsFull": "14245",
+      "downloads": "14.3K",
+      "downloadsFull": "14271",
       "rating": 4.0,
       "ratings": "34 оценки",
       "author": "bubon",
@@ -778,7 +778,7 @@
         "assets/mods/bmw-m5-g90-3.webp"
       ],
       "downloads": "10.8K",
-      "downloadsFull": "10772",
+      "downloadsFull": "10802",
       "rating": 4.0,
       "ratings": "20 оценок",
       "author": "bubon",
@@ -953,7 +953,7 @@
         "assets/mods/udc-1.webp"
       ],
       "downloads": "4.6K",
-      "downloadsFull": "4555",
+      "downloadsFull": "4598",
       "rating": 5.0,
       "ratings": "1 оценка",
       "author": "ULTIMATE DRAG COMPLEX",
@@ -961,7 +961,7 @@
       "size": "103 МБ",
       "sizeBytes": 108391301,
       "source": "ModLand",
-      "updated": "15 ноя 2026",
+      "updated": "14 ноя 2026",
       "gameVersion": "0.40.x",
       "configs": [],
       "configGroups": [],
@@ -991,8 +991,8 @@
         "assets/mods/el-capitan-1.webp",
         "assets/mods/el-capitan-2.webp"
       ],
-      "downloads": "225",
-      "downloadsFull": "225",
+      "downloads": "227",
+      "downloadsFull": "227",
       "rating": 5.0,
       "ratings": "1 оценка",
       "author": "superplayart",
@@ -1032,8 +1032,8 @@
         "assets/mods/pod-race-gran-turismo-tokyo-geneva-3.webp",
         "assets/mods/pod-race-gran-turismo-tokyo-geneva-4.webp"
       ],
-      "downloads": "180",
-      "downloadsFull": "180",
+      "downloads": "182",
+      "downloadsFull": "182",
       "rating": 4.0,
       "ratings": "0 оценок",
       "author": "superplayart",
@@ -1041,7 +1041,7 @@
       "size": "39 МБ",
       "sizeBytes": 40550309,
       "source": "ModLand",
-      "updated": "16 ноя 2026",
+      "updated": "15 ноя 2026",
       "gameVersion": "0.40.x",
       "configs": [],
       "configGroups": [],
@@ -1076,8 +1076,8 @@
         "assets/mods/george-v-paris-gran-turismo-4-2.webp",
         "assets/mods/george-v-paris-gran-turismo-4-3.webp"
       ],
-      "downloads": "282",
-      "downloadsFull": "282",
+      "downloads": "285",
+      "downloadsFull": "285",
       "rating": 4.0,
       "ratings": "0 оценок",
       "author": "superplayart",
@@ -1119,8 +1119,8 @@
         "assets/mods/citta-di-aria-gran-turismo-4-1.webp",
         "assets/mods/citta-di-aria-gran-turismo-4-2.webp"
       ],
-      "downloads": "182",
-      "downloadsFull": "182",
+      "downloads": "187",
+      "downloadsFull": "187",
       "rating": 3.0,
       "ratings": "1 оценка",
       "author": "superplayart",
@@ -1158,8 +1158,8 @@
         "assets/mods/tokyo-r246-gran-turismo-4-3.webp",
         "assets/mods/tokyo-r246-gran-turismo-4-4.webp"
       ],
-      "downloads": "90",
-      "downloadsFull": "90",
+      "downloads": "97",
+      "downloadsFull": "97",
       "rating": 4.0,
       "ratings": "0 оценок",
       "author": "superplayart",
